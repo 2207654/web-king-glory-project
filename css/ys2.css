@@ -1,0 +1,156 @@
+
+body{
+	 background: url(../img/wzkj/tbbj1.jpg) no-repeat center -84px;
+}
+#header{
+	width: 100%;
+    min-width: 1200px;
+    min-height: 620px;
+    max-width: 1920px;
+    height: 1500px;/*记得改*/
+    margin-top: 400px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    background-color: #dbdbdb;
+}
+.zynr{
+	width: 1198px;
+    margin: 0 auto;
+    padding-top: 40px;
+    /*border: 1px solid #DBDBDB;*/
+    background-color: #dbdbdb;
+    height: 1600px;/*记得改*/
+}
+.zynr_bt{
+	width: 100%;
+    /*margin-bottom: 40px;*/
+    height: 20px;
+    line-height: 20px;
+    color: #464547;
+    font-size: 16px;
+}
+.zynr_bt a{
+	display: block;
+}
+.tb{
+	background: url(../img/wzkj/tb1.jpg);
+	height: 20px;
+	width: 20px;
+	float: left;
+}
+.zynr_bt1{
+	margin-top: 40px;
+	width: 1198px;
+    position: relative;
+    height: 50px;
+    background: #3D4253;
+}
+
+.zynr_bt1 ul li{
+	width: 398px;
+    text-align: center;
+    font-size: 18px;
+    float: left;
+    line-height: 45px;
+    font-weight: bold;
+}
+
+.btnr{
+	padding-top: 0px!important;
+    height: 45px!important;
+   border-top: 5px solid #35c5dd;
+   background: #fff;  
+}
+.zynr1{
+	position: relative;
+    background: #ffffff;
+    padding: 0 60px 60px;
+    height: 1285px;
+}
+.zynr_bt2{
+	position: relative;
+    height: 30px;
+    padding: 75px 0 30px;
+   /*margin: 75px 0 30px;*/
+}
+.zynr2{
+	position: relative;
+    width: 1075px;
+    height: 360px;
+    top: 30px;
+    overflow: hidden;
+}
+.zynr3{
+	float: right;
+    position: relative;
+    width: 512px;
+    height: 336px;
+    top: -30px;
+}
+
+.zynr_bt3{
+    position: relative;
+    margin: 0 auto;
+    width: 998px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 65px;
+    margin-bottom: 35px;
+}
+.bttp{
+	display: inline-block;
+    border-top: 1px solid #DBDBDB;
+    border-bottom: 1px solid #DBDBDB;
+    background: #EAEAEA;
+    height: 4px;
+    width: 998px;
+    /*float: left;
+*/}/*标题图片*/
+.zynr_bt4{
+    position: relative;
+    top: -50px;
+	width: 998px;
+   /* background: #2784E0;*/
+}
+.zynr_bt4 ul{
+    width: 998px;
+    background: #2784E0;
+    float: left;
+}
+.zynr_bt4 ul li{
+	float: left;
+    text-align: center;
+    width: 199.6px;
+}
+.zynr_bt4 a{
+	display: block;
+	color: #fff;
+    padding: 8px 9px;
+    border: 0;
+}
+.zynr_bt4 a:hover{
+	background-color: #fff;
+	color: #c6a771;
+	/*height: 100px;*/
+}
+.zynr4{
+	/*position: relative;*/
+    width: 1075px;
+    height: 360px;
+    /*overflow: hidden;*/
+    /*background-color: red;*/
+}
+.zynr5{
+	position: relative;
+	width: 520px;
+    height: 336px;
+   /* background-color: yellow;*/
+}
+.zynr6{
+	float: right;
+	width: 522px;
+	height: 330px;
+	border-radius: 5px;
+	border: 3px solid #dcdcdc;
+}

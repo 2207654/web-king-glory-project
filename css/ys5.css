@@ -1,0 +1,141 @@
+
+body{
+	 background: url(../img/wzkj/tbbj1.jpg) no-repeat center -84px;
+}
+
+#header{
+	width: 100%;
+    min-width: 1200px;
+    min-height: 620px;
+    max-width: 1920px;
+    height: 950px;/*记得改*/
+    /*margin: 0 auto;*/
+    margin-top: 400px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    background-color: #dbdbdb;
+    /*background: url(img/ny_con_bg.jpg) no-repeat center top;*/
+}
+.zynr{
+	width: 1200px;
+    margin: 0 auto;
+    padding-top: 40px;
+    /*border: 1px solid #DBDBDB;*/
+    background-color: #dbdbdb;
+    height: 850px;/*记得改*/
+}
+.zynr_bt{
+	width: 100%;
+    /*margin-bottom: 40px;*/
+    height: 20px;
+    line-height: 20px;
+    color: #464547;
+    font-size: 16px;
+}
+.zynr_bt a{
+	display: block;
+}
+.tb{
+	background: url(../img/wzkj/bj1.jpg);
+	height: 20px;
+	width: 20px;
+	float: left;
+}
+.yxbz{
+    width: 936px;
+    height: 700px;
+    margin-top: 30px;
+    /*background-color: red;*/
+}
+.yxbz_bt1{
+    width: 936px;
+    height: 32px;
+    line-height: 32px;
+    margin-bottom: 18px;
+}
+.yxbz_bt2{
+    width: 400px;
+    height: 32px;
+    line-height: 32px;
+    float: right;
+}
+.bt1{
+    width: 94px;
+    height: 32px;
+    line-height: 32px;
+    float: left;
+    cursor: pointer;
+}
+.bt2{
+    width: 94px;
+    line-height: 32px;
+    float: left;
+    cursor: pointer;
+    color: #0691EB;
+}
+.bt3{
+    position: relative;
+    float: right;
+    width: 193px;
+    height: 32px;
+    border: 1px solid #D2D2D2;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.bt3_ys1{
+    padding: 3px 5px;
+    font-size: 14px;
+    color: #B6B6B6;
+    width: 150px;
+    height: 26px;
+    border: 0;
+    float: left;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.bt3_ys2{
+    display: inline-block;
+    float: left;
+    height: 18px;
+    width: 25px;
+    line-height: 18px;
+    margin-top: 7px;
+    padding-left: 5px;
+}
+.tp{
+    float: left;
+    width: 215px;
+    height: 175px;
+    margin: 0 19px 15px 0;
+    /*position: relative;*/
+}
+.tp p{
+    text-align: center;
+    margin: 0;/*外边距为0*/
+    padding: 0;/*内边距为0*/
+}
+.tp ul li{
+    height: 20px;
+    width: 65px;
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 5px;
+}
+.tp ul li a{
+    color: #000000;
+}
+.tp ul li a:hover{
+    color: #f358b4;
+    font-size: 15px;
+}
+.ggzz{
+    float: right;
+    width: 210px;
+    height: 700px;
+    /*margin-top: */
+    position: relative;
+    margin-top: -500px;
+}
